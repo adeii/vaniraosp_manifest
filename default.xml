@@ -161,7 +161,7 @@
   <project path="hardware/sony/thermanager" name="CyanogenMod/android_hardware_sony_thermanager" />
   <project path="hardware/sony/timekeep" name="CyanogenMod/android_hardware_sony_timekeep" />
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" />
-  <project path="vendor/qcom/opensource/dataservices" name="vendor_qcom_opensource_dataservices" remote="vanir" />
+  <project path="vendor/qcom/opensource/dataservices" name="CyanogenMod/android_vendor_qcom_opensource_dataservices" />
 
 
 <!-- CM -->
