@@ -509,9 +509,9 @@
   <project path="hardware/atheros/wlan" name="legaCyMod/android_hardware_atheros_wlan" remote="github" revision="cm-11.0" />
 
   <!-- QCOM Hardware -->
-  <project path="hardware/qcom/audio-caf" name="SlimRoms/hardware_qcom_audio-caf" remote="github" revision="kk4.4" />  
-  <project path="hardware/qcom/display-caf" name="SlimKat-Y300/hardware_qcom_display-caf" remote="github" revision="kk4.4" />  
-  <project path="hardware/qcom/media-caf" name="SlimRoms/hardware_qcom_media-caf" remote="github" revision="kk4.4" />
+  <project path="hardware/qcom/audio-caf2" name="SlimRoms/hardware_qcom_audio-caf" remote="github" revision="kk4.4" />  
+  <project path="hardware/qcom/display-caf2" name="SlimKat-Y300/hardware_qcom_display-caf" remote="github" revision="kk4.4" />  
+  <project path="hardware/qcom/media-caf2" name="SlimRoms/hardware_qcom_media-caf" remote="github" revision="kk4.4" />
 
   <!-- UBERTC toolchains -->
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="UBERTC/arm-eabi-4.9" remote="bb" revision="master" />
