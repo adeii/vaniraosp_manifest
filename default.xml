@@ -495,8 +495,6 @@
 
   
   
-  <!-- CyanogenMod qrngd -->
-  <project path="external/qrngd" name="SlimRoms/android_external_qrngd" remote="github" revision="kk4.4" />
 
   <!-- CyanogenMod ffmpeg -->
   <project path="external/ffmpeg" name="SlimRoms/android_external_ffmpeg" remote="github" revision="kk4.4" />
