@@ -21,7 +21,7 @@
   <remote name="linaro"
           fetch="http://android.git.linaro.org/git-ro/" />
   <default revision="cm-11.0"
-          sync-j="12"
+          sync-j="2"
           remote="cm" />
 
 
@@ -482,7 +482,7 @@
   <project path="packages/apps/SlimLauncher" name="SlimRoms/packages_apps_SlimLauncher" remote="github" revision="kk4.4" />
 
   <!--Power Hal -->
-  <project path="hardware/cm" name="SlimRoms/hardware_cm" remote="github" revision="kk4.4" />
+  <!-- project path="hardware/cm" name="SlimRoms/hardware_cm" remote="github" revision="kk4.4" / -->
 
   <!-- Slim toolchain gcc and linaro -->
   <project path="prebuilt" name="SlimRoms/android_prebuilt" remote="github" revision="kk4.4" />
