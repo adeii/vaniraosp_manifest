@@ -138,6 +138,7 @@
 <!-- Snippes -->
   <include name="snippets/devices.xml" />
   <!-- include name="snippets/vendors.xml" / -->
+  <project path="vendor/vanir" name="vendor_vanir" remote="vanir" groups="vendor" />
 
 <!-- CM -->
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
